@@ -3,16 +3,16 @@ Repositorio para desplegar un servicio de Redis usando Dockerfile
 
 ### Ve a Render y crea nuevo servicio
 
-    Entra a https://dashboard.render.com
+    1. Entra a https://dashboard.render.com
 
-    Clic en "New" > "Web Service"
+    2. Clic en "New" > "Web Service"
 
-    Elige tu repositorio con el Dockerfile
+    3. Elige tu repositorio con el Dockerfile
 
-    Dale un nombre, por ejemplo: redis-service
+    4. Dale un nombre, por ejemplo: redis-service
 
-    En "Environment" selecciona: Docker
+    5. En "Environment" selecciona: Docker
 
-    Elige el Plan Gratuito
+    6. Elige el Plan Gratuito
 
-    En "Publish Directory", deja vacío
+    7.En "Publish Directory", deja vacío
